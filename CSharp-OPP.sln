@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Nested-Class", "09_Neste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Sealed-Class", "10_Sealed-Class\10_Sealed-Class.csproj", "{FA8ED7BE-95F0-4266-8F68-F2536279E384}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Partial-Class", "11_Partial-Class\11_Partial-Class.csproj", "{7954F61E-0AAB-4282-816C-0F9C56F07DEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{FA8ED7BE-95F0-4266-8F68-F2536279E384}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8ED7BE-95F0-4266-8F68-F2536279E384}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8ED7BE-95F0-4266-8F68-F2536279E384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7954F61E-0AAB-4282-816C-0F9C56F07DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7954F61E-0AAB-4282-816C-0F9C56F07DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7954F61E-0AAB-4282-816C-0F9C56F07DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7954F61E-0AAB-4282-816C-0F9C56F07DEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
