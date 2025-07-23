@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{02EA681E
 		OOP Principles.txt = OOP Principles.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Nested-Class", "09_Nested-Class\09_Nested-Class.csproj", "{B6D37E43-389C-4D42-97C7-574C4B516ADD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{20BBF13C-7930-44C6-8B0E-E6D62625229D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20BBF13C-7930-44C6-8B0E-E6D62625229D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20BBF13C-7930-44C6-8B0E-E6D62625229D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D37E43-389C-4D42-97C7-574C4B516ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D37E43-389C-4D42-97C7-574C4B516ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D37E43-389C-4D42-97C7-574C4B516ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D37E43-389C-4D42-97C7-574C4B516ADD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
