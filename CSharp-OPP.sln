@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{02EA681E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Nested-Class", "09_Nested-Class\09_Nested-Class.csproj", "{B6D37E43-389C-4D42-97C7-574C4B516ADD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Sealed-Class", "10_Sealed-Class\10_Sealed-Class.csproj", "{FA8ED7BE-95F0-4266-8F68-F2536279E384}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{B6D37E43-389C-4D42-97C7-574C4B516ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6D37E43-389C-4D42-97C7-574C4B516ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6D37E43-389C-4D42-97C7-574C4B516ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8ED7BE-95F0-4266-8F68-F2536279E384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8ED7BE-95F0-4266-8F68-F2536279E384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8ED7BE-95F0-4266-8F68-F2536279E384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8ED7BE-95F0-4266-8F68-F2536279E384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
