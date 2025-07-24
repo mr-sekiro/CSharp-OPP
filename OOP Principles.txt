@@ -16,10 +16,12 @@ Protected internal
 
 //******************************** 2 Abstraction ********************************//
 Abstraction is an important part of object oriented programming. It means that only the required information is visible to the user and the rest of the information is hidden.
-
-
+It is the process of hiding the complex implementation details and only exposing the necessary parts of an object or system to the user.
+It Allows us to define what an object does without needing to know how it does it.
 
 //******************************** 3 Inheritance ********************************//
+It allows a class (called a derived class or child class) to inherit members like properties, methods, fields and behaviors from another class (called the base class or parent class).
+
 inheritance allows us to create a new class from an existing class. It is a key feature of Object-Oriented Programming (OOP).
 
 In C#, it is possible to inherit fields and methods from one class to another. We group the "inheritance concept" into two categories:
